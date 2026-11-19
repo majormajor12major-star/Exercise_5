@@ -4,6 +4,10 @@ import frc.robot.Scratchbot.Scratchbot;
 
 public class Lab {
     public static void runLab(){
-        // rizz
+        
+
+        String[] Methods = ["rozz"] 
+
+
     }
 }
