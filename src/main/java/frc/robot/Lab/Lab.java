@@ -6,8 +6,13 @@ public class Lab {
     public static void runLab(){
         
 
-        String[] Methods = ["rozz"] 
+        String[] movements = {"moveforward", "turnRight", "skip", "moveForward", "moveRight", "moveBack"}; 
 
+        for (String moving : movements )
+        {
+            
+
+        }
 
     }
 }
